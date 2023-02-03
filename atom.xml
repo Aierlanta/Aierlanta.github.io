@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2022-08-04T04:42:10.761Z</updated>
+  <updated>2023-02-03T11:14:19.708Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>域名修改</title>
+    <link href="http://example.com/2023/02/03/%E5%9F%9F%E5%90%8D%E4%BF%AE%E6%94%B9/"/>
+    <id>http://example.com/2023/02/03/%E5%9F%9F%E5%90%8D%E4%BF%AE%E6%94%B9/</id>
+    <published>2023-02-03T11:12:45.000Z</published>
+    <updated>2023-02-03T11:14:19.708Z</updated>
+    
+    <content type="html"><![CDATA[<p>如题，将域名修改为：<code>blog.aierlanta.eu.org</code>，原有的域名作废</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;如题，将域名修改为：&lt;code&gt;blog.aierlanta.eu.org&lt;/code&gt;，原有的域名作废&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    
+    <category term="blog" scheme="http://example.com/tags/blog/"/>
+    
+  </entry>
   
   <entry>
     <title>为何渴望战争？</title>
